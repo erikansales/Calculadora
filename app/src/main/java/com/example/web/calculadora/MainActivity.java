@@ -135,6 +135,8 @@ public class MainActivity extends AppCompatActivity {
                    String txt = nmtxtVisor += nmbtnZero;
                    txtVisor.setText(nmbtnZero);
                 }
+
+                //nao entra nesse else
                else{
                     txtVisor.setText(nmbtnZero);
                 }
